@@ -20,12 +20,13 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+```
 
 Name : A SATHYA NARAYANAN
 
 Reg No : 212225040392
 
-```
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
